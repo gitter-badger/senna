@@ -1,4 +1,6 @@
 # Senna
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/leonardomerlin/senna?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](http://img.shields.io/travis/eduardolundgren/senna/master.svg?style=flat)](https://travis-ci.org/eduardolundgren/senna)
 
 ![Senna Helmet](https://cloud.githubusercontent.com/assets/398893/4001086/3ea857fc-2960-11e4-8c50-d43fe89b3316.png)
